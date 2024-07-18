@@ -3,8 +3,10 @@
 The *Technical Training - Kubernetes Native Development* is a one-day learning experience for developers who want to understand and make use of the benefits of Quarkus in an OpenShift environment in their daily work. They learn everything they need to understand the concepts, the architectural principles and components of Quarkus and OpenShift for successfully discussing and developing Cloud Native Applications at a customer site from a developer’s perspective. 
 
 ## Key takeaways
-- Benefits of using Quarkus Concepts of Quarkus 
-- Basic understanding Making use of Quarkus Dev Services 
+- Benefits of using Quarkus
+- Concepts of Quarkus 
+- Basic understanding
+- Making use of Quarkus Dev Services 
 - Understanding and using Quarkus to build a micro service 
 - Developing Quarkus Apps with OpenShift  
 - Building Quarkus apps for Kubernetes 
@@ -37,7 +39,6 @@ Have a look at [GitHub](https://github.com/wpernath/quarkus-grumpycat) to see a 
 ## Agenda
 The day is full of technical demos and presentations. The next iteration of this workshop is going to take place on July 18th 2024. If you want to participate, please [go here](https://connect.redhat.com/en/training/emea/technical-training-kubernetes-native) and register for free. 
 
-### Day #1
 Start | End | Topics
 ------|-----|------
 9:00 | 9:30| Intro & Welcome
@@ -45,8 +46,7 @@ Start | End | Topics
 **10:30**|**10:45**| **break**
 10:45|12:15|Working with Quarkus I
 **12:15**|**13:15**|**Lunch Break**
-13:15|14:15|Working with Quarkus II
-14:15|15:30|Application Packaging - Kustomize - Helm Charts
+13:15|15:30|Working with Quarkus II
 15:30|16:00|Open Questions / Answers
 
 
